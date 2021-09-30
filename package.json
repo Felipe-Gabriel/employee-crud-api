@@ -1,0 +1,24 @@
+{
+  "name": "employee-crud-api",
+  "version": "1.0.0",
+  "description": "Aplicação CRUD API em Node.js que alimentará os frameworks Angular",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felipe-Gabriel/employee-crud-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felipe-Gabriel/employee-crud-api/issues"
+  },
+  "homepage": "https://github.com/Felipe-Gabriel/employee-crud-api#readme"
+}
