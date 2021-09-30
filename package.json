@@ -3,9 +3,18 @@
   "version": "1.0.0",
   "description": "Aplicação CRUD API em Node.js que alimentará os frameworks Angular",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-promise-router": "^4.1.0",
+    "pg": "^8.7.1"
+  },
   "devDependencies": {
-    "eslint": "^7.32.0"
+    "eslint": "^7.32.0",
+    "husky": "^7.0.2",
+    "i": "^0.3.7",
+    "nodemon": "^2.0.13"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
